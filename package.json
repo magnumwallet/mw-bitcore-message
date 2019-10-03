@@ -1,5 +1,5 @@
 {
-  "name": "bitcore-message",
+  "name": "mw-bitcore-message",
   "version": "1.0.3",
   "description": "Bitcoin Messages for Bitcore",
   "author": "BitPay <dev@bitpay.com>",
@@ -20,7 +20,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/bitpay/bitcore-message.git"
+    "url": "https://github.com/magnumwallet/mw-bitcore-message.git"
   },
   "dependencies": {
     "bitcore-lib": "^0.13.7"
